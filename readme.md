@@ -1,8 +1,12 @@
-Sure, here is the corrected and rewritten text in markdown format:
-
 # Expressiveness in Guitar Performance: A Case Study
 
 In musical performances, expressive models have been proposed to analyze and characterize the deviations that a musician introduces when performing a musical piece. This work presents expressiveness in guitar performance as a case study.
+
+
+## Output examples:
+
+
+
 
 ## Challenges in Guitar Case Studies
 
