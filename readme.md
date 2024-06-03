@@ -5,6 +5,19 @@ In musical performances, expressive models have been proposed to analyze and cha
 
 ## Output examples:
 
+Markdown	HTML	Rendered Output
+1. ### Jazz examples
+https://github.com/Ignasinou/Expressive-Performance-Modeling-in-Polyphonic-Flamenco-and-Jazz-Guitar/assets/19283475/b692881b-be3c-492c-b8dc-a2528b15018d
+
+https://github.com/Ignasinou/Expressive-Performance-Modeling-in-Polyphonic-Flamenco-and-Jazz-Guitar/assets/19283475/f7798b43-5840-4b7b-a876-0c7c1c008907
+
+2. ### Flamenco examples
+
+https://github.com/Ignasinou/Expressive-Performance-Modeling-in-Polyphonic-Flamenco-and-Jazz-Guitar/assets/19283475/9ced5d00-c333-4d0e-8128-27a4e54f9f07
+
+https://github.com/Ignasinou/Expressive-Performance-Modeling-in-Polyphonic-Flamenco-and-Jazz-Guitar/assets/19283475/6db37f8b-a61f-47cf-9c42-dc1f864cd524
+
+
 
 
 
